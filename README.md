@@ -18,12 +18,6 @@ I specialize in:
 ✔ Tableau
 ✔ Data Modeling & Reporting Automation
 
-⸻
-
-📄 My CV
-
-Download CV (PDF):
-📄 EN_CV_DA(BI+Reporting)-2.pdf￼
 
 ⸻
 
