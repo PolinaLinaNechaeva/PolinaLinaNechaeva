@@ -14,7 +14,7 @@ Now fully focused on building modern BI solutions, analytics, automation scripts
 I specialize in:
 ✔ Power BI (DAX)
 ✔ SQL (MySQL, SQLite)
-✔ Python for ETL (Pandas, BeautifulSoup, Selenium)
+✔ Python for ETL (Pandas, NumPy, Seaborn, Matplotlib)
 ✔ Tableau
 ✔ Data Modeling & Reporting Automation
 
