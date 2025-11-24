@@ -18,7 +18,6 @@ I specialize in:
 ✔ Tableau
 ✔ Data Modeling & Reporting Automation
 
-
 ⸻
 
 🚀 Recent Projects
